@@ -2,7 +2,7 @@
 
 # SQL Query Solutions
 
-This document outlines the thought process and challenges involved in solving several SQL tasks.
+This document outlines the thought process and challenges involved in solving the SQL tasks.
 
 ## Question 1
 
